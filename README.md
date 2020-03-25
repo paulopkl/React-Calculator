@@ -1,3 +1,5 @@
+<img src="src/imgs/HomePage.png">
+
 <h1>Projeto React-Calculator.</h1>
 
 O objetivo desse projeto é testar/mostrar de maneira prática meu conhecimento com ReactJS.
