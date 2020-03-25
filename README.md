@@ -10,4 +10,4 @@ Rode <code>npm i</code> no terminal.
 
 <h1>Rodar projeto:</h1>
 
-Apenas rode <code>npm start</code> e navegue até localhost:3000 no browser.
+Apenas rode <code>npm start</code> e navegue até `localhost:3000` no browser.
